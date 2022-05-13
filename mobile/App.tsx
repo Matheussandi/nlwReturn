@@ -1,8 +1,8 @@
+import AppLoading from 'expo-app-loading';
 import 'react-native-gesture-handler';
 
 import { StatusBar } from 'expo-status-bar';
 import { View } from 'react-native';
-import AppLoading from 'expo-app-loading';
 import { 
   useFonts, 
   Inter_400Regular, 
