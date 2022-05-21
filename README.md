@@ -60,8 +60,11 @@ Crie um arquivo `.env.local`, adicione uma variável `VITE_API_URL` passando a U
 # Instala as dependências
 npm install
 
-# Excecuta aplicação
+# Excecuta aplicação web e server
 npm run dev
+
+# Excecuta aplicação mobile
+expo start
 ```
  
 # 📄 Licença
